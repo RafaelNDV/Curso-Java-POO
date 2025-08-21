@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af1830c-851f-4550-b352-325f79939cea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/aula02-v2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula02-v2/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02-v2/aula02/src/Caneta.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02-v2/Caneta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02-v2/aula02/src/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02-v2/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02-v2/aula02/src/aula002.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02-v2/aula002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02-v2/out/production/Curso-Java-POO/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula02-v2/out/production/Curso-Java-POO/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02-v2/out/production/Curso-Java-POO/aula02/src/Caneta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02-v2/out/production/Curso-Java-POO/aula02/src/Livro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02-v2/out/production/Curso-Java-POO/aula02/src/aula002.class" beforeDir="false" />
-    </list>
+    <list default="true" id="3af1830c-851f-4550-b352-325f79939cea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +18,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/aula02-v2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -37,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "C:/Users/Rafae/OneDrive/Área de Trabalho/Cursos de Tenologia/Curso-Java-POO"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rafae/OneDrive/Área de Trabalho/Cursos de Tenologia/Curso-Java-POO&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Rafae\OneDrive\Área de Trabalho\Cursos de Tenologia\Curso-Java-POO" />
