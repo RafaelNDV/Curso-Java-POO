@@ -104,7 +104,7 @@ public class Lutador {
     }
 
     public void apresentar(){
-        System.out.println("O lutador "+this.getNome()+" pesando "+this.getPeso()+" com "+this.getAltura()+"de altura." );
+        System.out.println("O lutador "+this.getNome()+" pesando "+this.getPeso()+"kgs com "+this.getAltura()+"cm de altura." );
     }
     public void status(){
         System.out.println("Nome: "+this.getNome());
