@@ -17,7 +17,7 @@ public class Video implements AcoesVideo {
         System.out.println("Avaliação: "+this.avaliacao);
         System.out.println("Views: "+this.views);
         System.out.println("Curtidas: "+this.curtidas);
-        System.out.println("Reproduzinod: "this.reproduzindo);
+        System.out.println("Reproduzindo: "+this.reproduzindo);
     }
 
     @Override
