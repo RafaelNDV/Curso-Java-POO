@@ -16,6 +16,9 @@ public abstract class Pessoa {
         System.out.println("Sexo: "+this.sexo);
         System.out.println("Experiencia: "+this.experiencia);
     }
+    protected void ganharExperiencia(){
+        this.experiencia = this.experiencia + 15;
+    }
     public void setIdade(int idade) {
         this.idade = idade;
     }
